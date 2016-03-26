@@ -28,13 +28,13 @@ body {
 .headline h1 {
     font-size: 130px;
     background: #fff;
-    background: rgba(255,255,255,0.3);
+    background: rgba(255, 255, 255, 0.3);
 }
 
 .headline h2 {
     font-size: 77px;
     background: #fff;
-    background: rgba(255,255,255,0.3);
+    background: rgba(255, 255, 255, 0.3);
 }
 
 .featurette-divider {
@@ -61,7 +61,7 @@ footer {
     margin: 50px 0;
 }
 
-@media(max-width:1200px) {
+@media (max-width: 1200px) {
     .headline h1 {
         font-size: 140px;
     }
@@ -87,7 +87,7 @@ footer {
     }
 }
 
-@media(max-width:991px) {
+@media (max-width: 991px) {
     .headline h1 {
         font-size: 105px;
     }
@@ -117,7 +117,7 @@ footer {
     }
 }
 
-@media(max-width:768px) {
+@media (max-width: 768px) {
     .container {
         margin: 0 15px;
     }
@@ -131,7 +131,7 @@ footer {
     }
 }
 
-@media(max-width:668px) {
+@media (max-width: 668px) {
     .headline h1 {
         font-size: 70px;
     }
@@ -145,7 +145,7 @@ footer {
     }
 }
 
-@media(max-width:640px) {
+@media (max-width: 640px) {
     .headline {
         padding: 75px 0 25px 0;
     }
@@ -159,7 +159,7 @@ footer {
     }
 }
 
-@media(max-width:375px) {
+@media (max-width: 375px) {
     .featurette-divider {
         margin: 10px 0;
     }
