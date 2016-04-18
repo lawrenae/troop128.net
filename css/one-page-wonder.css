@@ -183,5 +183,11 @@ footer {
 
 .navbar-inverse {
     background-color: #CE1126;
+}
+
+a,
+body,
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-nav > li > a {
     color: white;
 }
