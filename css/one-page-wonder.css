@@ -192,6 +192,7 @@ body {
 }
 
 a,
+a:hover,
 body,
 .navbar-inverse .navbar-brand,
 .navbar-inverse .navbar-nav > li > a {
