@@ -1,0 +1,27 @@
+/*!
+ * Start Bootstrap - One Page Wonder HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/**
+ * Overrides
+ * BSA Branding: http://blog.scoutingmagazine.org/2013/06/07/brand-id/
+ */
+
+.navbar-inverse {
+    background-color: #006b4f;
+}
+
+body {
+    background: #fcd116;
+}
+
+a,
+a:hover,
+a:visited,
+body,
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
