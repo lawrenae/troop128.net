@@ -1,0 +1,26 @@
+{
+  "name": "troop128.net",
+  "version": "1.0.0",
+  "description": "This project is a controlled version of the code for http://troop128.net/.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchitwood3/troop128.net.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchitwood3/troop128.net/issues"
+  },
+  "homepage": "https://github.com/dchitwood3/troop128.net#readme",
+  "devDependencies": {
+    "live-server": "^1.0.0"
+  }
+}
