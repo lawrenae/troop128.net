@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/dchitwood3/troop128.net#readme",
   "devDependencies": {
-    "live-server": "^1.0.0"
+    "live-server": "latest"
   }
 }
