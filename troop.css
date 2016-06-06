@@ -200,3 +200,7 @@ body,
 .navbar-inverse .navbar-nav > li > a {
     color: white;
 }
+
+.navbar-inverse .navbar-toggle {
+    border-color: white;
+}
