@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="troop128.net" uploadOnCheckin="db3a3d26-a3f1-4d4c-baed-700a80f63906">
-    <option name="myUploadOnCheckinName" value="troop128.net" />
+  <component name="PublishConfigData" autoUpload="Always" serverName="troop128.net">
     <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
