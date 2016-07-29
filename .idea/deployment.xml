@@ -7,6 +7,13 @@
           <mappings>
             <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
           </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/../7hillsleague.org/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/../7hillsleague.org/.gitignore" />
+            <excludedPath local="true" path="$PROJECT_DIR$/../7hillsleague.org/.editorconfig" />
+            <excludedPath local="true" path="$PROJECT_DIR$/../7hillsleague.org/README.md" />
+            <excludedPath local="true" path="$PROJECT_DIR$/../7hillsleague.org/package.json" />
+          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>
