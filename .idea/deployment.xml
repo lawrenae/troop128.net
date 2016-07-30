@@ -8,11 +8,12 @@
             <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
           </mappings>
           <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/../7hillsleague.org/.idea" />
-            <excludedPath local="true" path="$PROJECT_DIR$/../7hillsleague.org/.gitignore" />
-            <excludedPath local="true" path="$PROJECT_DIR$/../7hillsleague.org/.editorconfig" />
-            <excludedPath local="true" path="$PROJECT_DIR$/../7hillsleague.org/README.md" />
-            <excludedPath local="true" path="$PROJECT_DIR$/../7hillsleague.org/package.json" />
+            <excludedPath local="true" path="$PROJECT_DIR$/node_modules" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.editorconfig" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.gitignore" />
+            <excludedPath local="true" path="$PROJECT_DIR$/package.json" />
+            <excludedPath local="true" path="$PROJECT_DIR$/README.md" />
           </excludedPaths>
         </serverdata>
       </paths>
