@@ -204,3 +204,18 @@ body,
 .navbar-inverse .navbar-toggle {
     border-color: white;
 }
+
+table th {
+    background-color: black;
+    border-width: 0px;
+    color: white;
+    padding: 7px;
+}
+
+table td {
+    /*background-color: white;*/
+    border-style: solid;
+    border-width: 1px;
+    color: black;
+    padding: 7px;
+}
